@@ -28,4 +28,8 @@ TextView btn;
             }
         });
     }
+
+    void data() {
+
+    }
 }
